@@ -5,7 +5,7 @@ export const Example2 = () => {
   return (
     <div>
       <CounterOne/>
-      <CounterTwo/>
+      {/* <CounterTwo/> */}
     </div>
   )
 }

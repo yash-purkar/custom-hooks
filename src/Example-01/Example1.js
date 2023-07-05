@@ -5,7 +5,7 @@ import { ComponentTwo } from './ComponentTwo'
 export const Example1 = () => {
   return (
     <div>
-      {/* <ComponentOne /> */}
+      <ComponentOne />
       <ComponentTwo />
     </div>
   )
